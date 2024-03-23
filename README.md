@@ -1,3 +1,4 @@
+<img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rehaan.attar6541) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rehan Attar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rehanattar6541) 
 
