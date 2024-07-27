@@ -39,6 +39,7 @@
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   <br/>
+  <br/>
   <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=Rehan6541.Rehan6541" />
 </div>
 
