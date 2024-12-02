@@ -78,23 +78,22 @@
   <table>
     <tr>
       <td>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehan6541&show_icons=true&locale=en&layout=compact&hide_border=true&custom_title=Top%20Languages&langs_count=5&theme=radical" alt="rehan-attar" width="500" height="300" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehan6541&show_icons=true&locale=en&layout=compact&hide_border=true&custom_title=Top%20Languages&langs_count=5&theme=radical" alt="rehan-attar" width="700" height="350" />
       </td>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rehan6541&show_icons=true&locale=en&hide_border=true&theme=radical" alt="rehan-attar" width="500" height="300" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rehan6541&show_icons=true&locale=en&hide_border=true&theme=radical" alt="rehan-attar" width="700" height="350" />
       </td>
       <td>
-        <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Rehan6541&theme=radical" alt="rehan-attar" width="500" height="300" />
+        <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Rehan6541&theme=radical" alt="rehan-attar" width="700" height="350" />
       </td>
     </tr>
   </table>
 </div>
-
 <hr/>
-
 <div align="center">
   <h2>🌟 Let's Connect! 🌟</h2>
   <p>Feel free to reach out for collaborations, projects, or just a friendly chat!</p>
 </div>
 
 <br/>
+
