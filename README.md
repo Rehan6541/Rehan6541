@@ -59,24 +59,26 @@
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,c,cpp" />
     <img src="https://skillicons.dev/icons?i=java,python,javascript,mongodb,mysql" /><br>
 </div>
-
 <br/>
 <hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br/>
 
-<div align="center">
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rehan6541" alt="rehan-attar"  /></a> </p>
+&nbsp;
+<hr>
+<h3 align="left">📊⚡GitHub Stats:</h3>
+<br/><div align="center">
   <table>
     <tr>
       <td>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehan6541&show_icons=true&locale=en&layout=compact&hide_border=true&custom_title=Top%20Languages&langs_count=5&theme=radical" alt="rehan-attar" width="700" height="350" />
-      </td>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rehan6541&show_icons=true&locale=en&layout=compact" alt="rehan-attar" width="300" height="200"  /></p>
+  </td>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rehan6541&show_icons=true&locale=en&hide_border=true&theme=radical" alt="rehan-attar" width="700" height="350" />
-      </td>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rehan6541&show_icons=true&locale=en" alt="rehan-attar" width="300" height="200"/></p>
+ </td>
       <td>
-        <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Rehan6541&theme=radical" alt="rehan-attar" width="700" height="350" />
-      </td>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rehan6541&" alt="rehan-attar" width="300" height="300"/></p>
+ </td>
     </tr>
   </table>
 </div>
@@ -85,6 +87,4 @@
   <h2>🌟 Let's Connect! 🌟</h2>
   <p>Feel free to reach out for collaborations, projects, or just a friendly chat!</p>
 </div>
-
 <br/>
-
