@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-  ⚖️ "I believe in continuous learning and growth!" <br>
+  ⚖️ "I believe in Continuous Learning and Growth!" <br>
   <br/>
   💬 Ask me about **Python and MySQL**
 </div>
@@ -47,7 +47,7 @@
 <br/>
 
 <div align="center">
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Rehan6541.Rehan6541" />
+  <img align="center" src="https://VIsitor-badge.laobi.icu/badge?page_id=Rehan6541.Rehan6541" />
 </div>
 
 <br/>
