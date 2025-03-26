@@ -8,7 +8,7 @@
 
 <h3 align="center">✨ Passionate Engineer | Data Scientist ✨</h3>
 <div align="center">
-  <h4>⚖️ I believe in Continuous Learning and Growth! </h4><br>
+  <h4>⚖️ I believe in Continuous Learning and Growth! </h4>
 </div>
 
 ---
@@ -26,6 +26,7 @@
   <li> 📌 <b>Interests:</b> AI Research, Web Development, and Open Source </li>
   <li> 🤝 <b>Looking for Collaborations:</b> AI/ML & Data Science Projects </li>
 </ul>
+
 
 </td>
 <td width="50%" align="center">
