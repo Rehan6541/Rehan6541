@@ -17,14 +17,13 @@
 <br/>
 
 <div align="center">
-  ⚖️ "I believe in Continuous Learning and Growth!" <br>
-  <br/>
-  💬 Ask me about **Python and MySQL**
+  <h3>⚖️ I believe in Continuous Learning and Growth! </h3><br>
+  <h3>💬 Ask me about Data Analyst,Data Science and Machine Learning</h3>
 </div>
 <br/>
 
 <div align="center">
-  🌱 Currently learning AI and Data Science in Python!
+ <h3> 🌱 Currently learning GEN AI </h3>
 </div>
 
 <br/>
