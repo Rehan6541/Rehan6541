@@ -20,7 +20,7 @@
 <h2 align="center"> 📝 About Me </h2>
 
 <ul>
-  <li> 🔭 <b>Currently working on:</b> AI, Data Science & Machine Learning </li>
+  <li> 🔭 <b>Currently working on:</b> Design of Computer Aided Diagnosis combined with Hyperspectral Imaging for Bio Medical Applications </li>
   <li> 🌱 <b>Learning:</b> Generative AI & Advanced ML Techniques </li>
   <li> ⚡ <b>Passionate About:</b> Innovation, Problem-Solving, and Automation </li>
   <li> 📌 <b>Interests:</b> AI Research, Web Development, and Open Source </li>
@@ -30,7 +30,8 @@
 
 </td>
 <td width="50%" align="center">
-  <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif">
+  
 </td>
 </tr>
 </table>
@@ -41,16 +42,13 @@
 
 <p align="center">
   <a href="mailto:rehanattar6541@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/rehan-attar-46a872256">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.instagram.com/rehaan.attar6541?igsh=bWJvdmRIN2I3ZDVq">
-    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
@@ -59,9 +57,11 @@
 <h2 align="center"> ⚒️ Tech Stack & Tools </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,mysql,mongodb,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,opencv,pycharm,flask,anaconda,mysql,mongodb,postgres" />
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,figma" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,eclipse" />
 </p>
 
 
